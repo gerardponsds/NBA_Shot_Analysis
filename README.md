@@ -18,7 +18,15 @@ It is commonly believed that every time, more and more players and teams focus o
 </p>
 
 
-It can be easily seen that every time more and more scoring attempts are from **over the three point line**, and some shot positions that once where important (i.e. lateral shots or mid-range at 45º) have now lost importance. These 3-point shots are the ones more visually appealing and the ones that the fans chear the most, but let's look now at some data that can point out towards why this shift is happening.
+It can be easily seen that every time more and more scoring attempts are from **over the three point line**, and some shot positions that once where important (i.e. lateral shots or mid-range at 45º) have now lost importance. We can obtain similar conclusions by grouping the data by the distance:
+
+<p align="center">
+  <img src="/images/shots_distribution.png"  alt="drawing" width="600"/>
+</p>
+
+As it can be seen, the shot distribution has drastically changed, and shots from just over the three-point line happen in the **same frequency** that some close range shots. It is also noticeable the disapearance of the importance of the mid-range shots, as we observed in the first picture. 
+
+These 3-point shots are the ones more visually appealing and the ones that the fans chear the most, but let's look now at some data that can point out towards why this shift is happening.
 
 We will start by looking the **average point per shot** over the seasons, to know if it really pays off to throw more 3-point shots:
 
@@ -73,7 +81,7 @@ We have showed the increasing trend in throwing 3-point shots and the impact it 
 
 ## APPENDIX
 
-As the dataset contained a lot of additional data, some additinal metrics and statistics have been computed:
+As the dataset contained a lot of **additional data**, some additional metrics and statistics have been computed:
 
 #### PLAYERS WITH MORE 3-POINTS IN A GAME
 
