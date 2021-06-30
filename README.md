@@ -78,7 +78,7 @@ As the dataset contained a lot of additional data, some additinal metrics and st
 #### PLAYERS WITH MORE 3-POINTS IN A GAME
 
 <p align="center">
-  <img src="/images/average3pointspergame.png.png"  alt="drawing" width="450"/>
+  <img src="/images/average3pointspergame.png"  alt="drawing" width="450"/>
 </p>
 
 #### PLAYERS WITH THE HIGHER 3-POINTS/GAME RATE
@@ -92,3 +92,5 @@ As the dataset contained a lot of additional data, some additinal metrics and st
 <p align="center">
   <img src="/images/zonedependent3points.png"  alt="drawing" width="450"/>
 </p>
+
+We can observe a very **similar accuracy** on all the locations, however the right and left side have a slightly higher accuracy. These locations are the ones closer to the hoop (**22 feet**) and the center locations, which is the one with the worst accuracy, is the one located furthest (**23.9 feet**).
