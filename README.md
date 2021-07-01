@@ -24,7 +24,7 @@ It can be easily seen that every time more and more scoring attempts are from **
   <img src="/images/shots_distribution.png"  alt="drawing" width="600"/>
 </p>
 
-As it can be seen, the shot distribution has drastically changed, and shots from just over the three-point line happen in the **same frequency** that some close range shots. It is also noticeable the disapearance of the importance of the mid-range shots, as we observed in the first picture. 
+As it can be seen, the shot distribution has drastically changed, and shots from just over the three-point line happen in the **same frequency** that some close range shots. It is also noticeable the disapearance of the importance of the mid-range shots, as we observed in the first picture, and the appearance of shot attempts from further away positions.
 
 These 3-point shots are the ones more visually appealing and the ones that the fans chear the most, but let's look now at some data that can point out towards why this shift is happening.
 
